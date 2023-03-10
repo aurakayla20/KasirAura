@@ -1,0 +1,80 @@
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\RestoranCindyy.exe.config
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\RestoranCindyy.exe
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\RestoranCindyy.pdb
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\BouncyCastle.Crypto.dll
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\Google.Protobuf.dll
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\K4os.Compression.LZ4.dll
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\K4os.Hash.xxHash.dll
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\MySql.Data.dll
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\MySqlConnector.dll
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\System.Buffers.dll
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\System.Memory.dll
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\System.Numerics.Vectors.dll
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\ZstdNet.dll
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\BouncyCastle.Crypto.xml
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\Google.Protobuf.pdb
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\Google.Protobuf.xml
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\K4os.Compression.LZ4.xml
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\K4os.Hash.xxHash.xml
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\MySql.Data.xml
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\MySqlConnector.xml
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\System.Buffers.xml
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\System.Memory.xml
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\System.Numerics.Vectors.xml
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.csproj.AssemblyReference.cache
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.csproj.SuggestedBindingRedirects.cache
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.Form1.resources
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.Properties.Resources.resources
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.csproj.GenerateResource.cache
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.csproj.CoreCompileInputs.cache
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.csproj.CopyComplete
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.exe
+D:\XII RPL 2\Restoran\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.pdb
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\RestoranCindyy.exe.config
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\RestoranCindyy.exe
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\RestoranCindyy.pdb
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\BouncyCastle.Crypto.dll
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\Google.Protobuf.dll
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\K4os.Compression.LZ4.dll
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\K4os.Hash.xxHash.dll
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\MySql.Data.dll
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\MySqlConnector.dll
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\System.Buffers.dll
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\System.Memory.dll
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\System.Numerics.Vectors.dll
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\ZstdNet.dll
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\BouncyCastle.Crypto.xml
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\Google.Protobuf.pdb
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\Google.Protobuf.xml
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\K4os.Compression.LZ4.xml
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\K4os.Hash.xxHash.xml
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\MySql.Data.xml
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\MySqlConnector.xml
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\System.Buffers.xml
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\System.Memory.xml
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\System.Numerics.Vectors.xml
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RestoranCindyy\RestoranCindyy\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.csproj.AssemblyReference.cache
+D:\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.csproj.SuggestedBindingRedirects.cache
+D:\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.Form1.resources
+D:\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.Properties.Resources.resources
+D:\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.csproj.GenerateResource.cache
+D:\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.csproj.CoreCompileInputs.cache
+D:\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.csproj.CopyComplete
+D:\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.exe
+D:\RestoranCindyy\RestoranCindyy\obj\Debug\RestoranCindyy.pdb
